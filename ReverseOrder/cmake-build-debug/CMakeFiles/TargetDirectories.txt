@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/Github code/ReverseOrder/cmake-build-debug/CMakeFiles/13_4Nixu.dir
+C:/Users/Administrator/Desktop/Github code/ReverseOrder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Github code/ReverseOrder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
